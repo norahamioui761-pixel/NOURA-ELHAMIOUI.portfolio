@@ -200,13 +200,12 @@
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
                     <h3>Diagramme de Classes - Gestion de Projet</h3>
-                    <p>Modélisation UML d'un système de gestion de projets web : gestion des développeurs, tâches, participations et environnements de développement (IDE).</p>
                 </div>
                 <div class="card-buttons">
                     <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i> GitHub
                     </a>
-                    <a href="path-to-file.pdf" target="_blank" class="btn btn-docs">
+                    <a href="../public/docs/EX1.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-alt"></i> Document
                     </a>
                 </div>
