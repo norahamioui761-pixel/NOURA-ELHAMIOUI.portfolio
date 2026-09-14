@@ -210,14 +210,29 @@
                     </a>
                 </div>
             </div>
-
-            <!-- Card 2 (تقدر تزيد شحال ما بغيتي ديال الكارتات) -->
+           <!-- Card 2 -->
             <div class="card">
                 <span class="card-number">02</span>
                 <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3>Diagramme des cas d'utilisation - Gestion de Projet</h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="../public/docs/TD2.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
+
+            <!-- Card 3 (تقدر تزيد شحال ما بغيتي ديال الكارتات) -->
+            <div class="card">
+                <span class="card-number">03</span>
+                <div>
                     <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
-                    <h3>Maquettage & Wireframing</h3>
-                    <p>Création des maquettes UI/UX, zonation et prototypes interactifs sous Figma pour l'application.</p>
+                    <h3>....</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="https://github.com/ton-username/repo2" target="_blank" class="btn btn-github">
@@ -229,13 +244,12 @@
                 </div>
             </div>
 
-            <!-- Card 3 -->
+            <!-- Card 4-->
             <div class="card">
-                <span class="card-number">03</span>
+                <span class="card-number">04</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-tasks"></i></div>
-                    <h3>Gestion du Projet Web</h3>
-                    <p>Planification des tâches, répartition de la charge de travail et choix des technologies adaptées.</p>
+                    <h3>.....</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="https://github.com/ton-username/repo3" target="_blank" class="btn btn-github">
