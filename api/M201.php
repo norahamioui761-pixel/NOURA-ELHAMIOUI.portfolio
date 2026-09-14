@@ -205,7 +205,7 @@
                     <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i> GitHub
                     </a>
-                    <a href="../public/docs/EX1.pdf" target="_blank" class="btn btn-docs">
+                    <a href="/docs/EX1.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-alt"></i> Document
                     </a>
                 </div>
@@ -221,7 +221,7 @@
                     <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i> GitHub
                     </a>
-                    <a href="../public/docs/TD2.pdf" target="_blank" class="btn btn-docs">
+                    <a href="/docs/TD2.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-alt"></i> Document
                     </a>
                 </div>
