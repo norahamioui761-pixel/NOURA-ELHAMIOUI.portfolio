@@ -227,6 +227,23 @@
                 </div>
             </div>
 
+            <!-- Card 3 -->
+            <div class="card">
+                <span class="card-number">03</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3>Diagramme de Sequeances - Gestion de Projet</h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="/docs/TD3.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
+
             <!-- Card 3 (تقدر تزيد شحال ما بغيتي ديال الكارتات) -->
             <div class="card">
                 <span class="card-number">03</span>
