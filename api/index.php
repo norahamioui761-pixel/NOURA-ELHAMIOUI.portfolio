@@ -2297,7 +2297,7 @@
             <div class="about-image-area">
                 <div class="image-glow">
                     <img
-                        src="/images/noura.jpeg"
+                        src="/images/my image.jpeg"
                         alt="Noura El Hamioui"
                     >
                 </div>
