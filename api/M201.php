@@ -177,6 +177,80 @@
             color: #fff;
             box-shadow: 0 0 15px rgba(230, 57, 70, 0.4);
         }
+            
+
+
+        /* خلفية النافذة المنبثقة */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(5px);
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+/* محتوى النافذة */
+.modal-content {
+  background: #1e1e2f;
+  color: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  width: 80%;
+  max-width: 900px;
+  max-height: 85vh;
+  overflow-y: auto;
+  border: 1px solid #333;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.close-btn {
+  background: none; border: none;
+  color: #fff; font-size: 28px; cursor: pointer;
+}
+
+/* شبكة البطاقات (Cards Grid) */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.ex-card {
+  background: #2a2a3d;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #3f3f5a;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.pdf-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px;
+  background: #ff5e36;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.pdf-btn:hover {
+  background: #e04b24;
+}
+       
     </style>
 </head>
 <body>
@@ -205,9 +279,9 @@
                     <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i> GitHub
                     </a>
-                    <a href="diagramme.html" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Atelier 1
-                    </a>
+                    <button type="button" class="btn-atelier" onclick="openModal()">
+                                📄 Atelier 1
+                    </button>
                 </div>
             </div>
            
@@ -232,6 +306,76 @@
 
         </div>
     </div>
+
+    <!-- Modal Window -->
+<div id="atelierModal" class="modal-overlay">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h2>Liste des Exercices - Atelier 1</h2>
+      <button class="close-btn" onclick="closeModal()">&times;</button>
+    </div>
+    
+    <!-- Grid ديال 5 أو 6 ديال لي كارد -->
+    <div class="cards-grid">
+      
+      <!-- Card 1 -->
+      <div class="ex-card">
+        <h3>Exercice 1</h3>
+        <p>Diagramme de cas d'utilisation</p>
+        <a href="public/docs/M201/EX1.pdf" target="_blank" class="pdf-btn">📄 Voir PDF / Solution</a>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="ex-card">
+        <h3>Exercice 2</h3>
+        <p>Diagramme de séquences</p>
+        <a href="public/docs/M201/TD2.pdf" target="_blank" class="pdf-btn">📄 Voir PDF / Solution</a>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="ex-card">
+        <h3>Exercice 3</h3>
+        <p>Diagramme d'activités</p>
+        <a href="public/docs/M201/TD3.pdf" target="_blank" class="pdf-btn">📄 Voir PDF / Solution</a>
+      </div>
+
+      <!-- Card 4 -->
+      <div class="ex-card">
+        <h3>Exercice 4</h3>
+        <p>Spécifications techniques</p>
+        <a href="public/docs/M201/TD4.pdf" target="_blank" class="pdf-btn">📄 Voir PDF / Solution</a>
+      </div>
+
+      <!-- Card 5 -->
+      <div class="ex-card">
+        <h3>Exercice 5</h3>
+        <p>Gestion des stocks</p>
+        <a href="public/docs/M201/TD6.pdf" target="_blank" class="pdf-btn">📄 Voir PDF / Solution</a>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+<script>
+  function openModal() {
+    document.getElementById('atelierModal').style.display = 'flex';
+  }
+
+  function closeModal() {
+    document.getElementById('atelierModal').style.display = 'none';
+  }
+
+  // إغلاق النافذة عند الضغط في أي مكان خارجها
+  window.onclick = function(event) {
+    let modal = document.getElementById('atelierModal');
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+</script>
 
 </body>
 </html>
