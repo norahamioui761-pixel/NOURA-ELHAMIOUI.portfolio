@@ -224,7 +224,7 @@
                     <h3> Diagramme use case </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M201/EX2.pdf" target="_blank" class="btn btn-docs">
+                    <a href="/docs/M201/EX2.mdj" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-alt"></i> Doc 1
                     </a>
                     <a href="/docs/M201/TD1.png" target="_blank" class="btn btn-docs">
@@ -303,6 +303,42 @@
                     </a>
                 </div>
             </div>
+
+            <!-- Card 7-->
+            <div class="card">
+                <span class="card-number">FIGMA</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3>FIGMA-OUTILS DE BASE</h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="/docs/M201/Atelier Figma-1.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Atelier 1
+                    </a>
+                </div>
+            </div>
+
+            <!-- Card 8-->
+            <div class="card">
+                <span class="card-number">FIGMA</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3>FIGMA-OUTILS AVANCES</h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="/docs/M201/atelier2figma.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Atelier 2
+                    </a>
+                </div>
+            </div> 
+
+             
 
             
 
