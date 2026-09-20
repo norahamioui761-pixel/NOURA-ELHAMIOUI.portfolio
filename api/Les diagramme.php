@@ -199,31 +199,85 @@
                 <span class="card-number">01</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> UML </h3>
+                    <h3> Diagramme de class </h3>
                 </div>
                 <div class="card-buttons">
                     <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i> GitHub
                     </a>
-                    <a href="les diagramme.php" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Atelier 1
+                    <a href="/public/docs/M201/EX1.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
                     </a>
                 </div>
             </div>
            
-            <!-- Card 3 (تقدر تزيد شحال ما بغيتي ديال الكارتات) -->
+            <!-- Card 2  -->
             <div class="card">
                 <span class="card-number">02</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
-                    <h3> FIGMA </h3>
+                    <h3> Diagramme use case </h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="/public/docs/M201/EX2.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document 1
+                    </a>
+                    <a href="/public/docs/M201/TD1.png" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document 2
+                    </a>
+                    <a href="/public/docs/M201/TD2.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document 3
+                    </a>
+                </div>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="card">
+                <span class="card-number">03</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Diagramme de sequences </h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="/public/docs/M201/TD4.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
+
+            <!-- Card 4  -->
+            <div class="card">
+                <span class="card-number">04</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
+                    <h3> Diagramme d'etats-transition</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="https://github.com/ton-username/repo2" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i> GitHub
                     </a>
-                    <a href="path-to-file2.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Review
+                    <a href="/public/docs/M201/TD5.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
+
+            <!-- Card 5-->
+            <div class="card">
+                <span class="card-number">05</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Diagramme des activites </h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="/public/docs/M201/TD6.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
                     </a>
                 </div>
             </div>
