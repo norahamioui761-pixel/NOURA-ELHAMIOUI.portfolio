@@ -205,7 +205,7 @@
                     <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i> GitHub
                     </a>
-                    <a href="diagramme.html" target="_blank" class="btn btn-docs">
+                    <a href="api/diagramme.html" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-alt"></i> Atelier 1
                     </a>
                 </div>
