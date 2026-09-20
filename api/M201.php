@@ -197,18 +197,11 @@
         <div class="cards-grid">
 
         
-            <div class="card">
-                <span class="card-number">.</span>
-                <div>
-                    <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> UML </h3>
-                </div>
-                
-            </div>
+            
 
             <!-- Card 1 -->
             <div class="card">
-                <span class="card-number">01</span>
+                <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
                     <h3> Diagramme de class </h3>
@@ -225,7 +218,7 @@
            
             <!-- Card 2  -->
             <div class="card">
-                <span class="card-number">02</span>
+                <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
                     <h3> Diagramme use case </h3>
@@ -245,7 +238,7 @@
 
             <!-- Card 3 -->
             <div class="card">
-                <span class="card-number">03</span>
+                <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
                     <h3> Diagramme de sequences </h3>
@@ -262,7 +255,7 @@
 
             <!-- Card 4  -->
             <div class="card">
-                <span class="card-number">04</span>
+                <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
                     <h3> Diagramme d'etats-transition</h3>
@@ -279,7 +272,7 @@
 
             <!-- Card 5-->
             <div class="card">
-                <span class="card-number">05</span>
+                <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
                     <h3> Diagramme des activites </h3>
@@ -296,7 +289,7 @@
 
             <!-- Card 6-->
             <div class="card">
-                <span class="card-number">06</span>
+                <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
                     <h3>Les Diagramme </h3>
@@ -318,20 +311,12 @@
 
 
            
-            <!-- Card 3 (تقدر تزيد شحال ما بغيتي ديال الكارتات) -->
-            <div class="card">
-                <span class="card-number">.</span>
-                <div>
-                    <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
-                    <h3> FIGMA </h3>
-                </div>
-                
-            </div>
+            
 
             
 
-        </div>
-    </div>
+        
+    
 
 </body>
 </html>
