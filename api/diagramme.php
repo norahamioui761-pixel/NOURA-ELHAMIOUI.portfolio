@@ -282,6 +282,23 @@
                 </div>
             </div>
 
+            <!-- Card 6-->
+            <div class="card">
+                <span class="card-number">06</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3>Les Diagramme </h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i> GitHub
+                    </a>
+                    <a href="/public/docs/M201/Diagramme.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Documents
+                    </a>
+                </div>
+            </div>
+
             
 
         </div>
