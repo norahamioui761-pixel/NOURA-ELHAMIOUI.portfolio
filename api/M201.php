@@ -191,10 +191,12 @@
             <h1 class="title-main">Préparation d'un projet web</h1>
         </div>
 
-        <!-- شبكة الكارتات -->
+        
+
+            <!-- شبكة الكارتات -->
         <div class="cards-grid">
 
-            <!-- Card 1 -->
+        
             <div class="card">
                 <span class="card-number">.</span>
                 <div>
@@ -203,9 +205,6 @@
                 </div>
                 
             </div>
-
-            <!-- شبكة الكارتات -->
-        <div class="cards-grid">
 
             <!-- Card 1 -->
             <div class="card">
