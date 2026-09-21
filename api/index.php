@@ -2588,197 +2588,28 @@
             </div>
 
         </div>
-
-
         <!-- PROJECT 2 -->
         <div class="project-card">
 
             <div class="project-image">
-                <img src="../public/images/project2.png"
-                     alt="Portfolio Website">
+                <img src="/images/Elys.jpeg"
+                     alt="E-Commerce Website">
             </div>
 
             <h3>
-                Portfolio Website
+                ELYS-Online Fashion Store
             </h3>
 
             <p>
-                Personal portfolio website to showcase my
-                projects, skills and digital development journey.
+                A modern fashion e-commerce platform built under the ELYS brand,
+                 allowing users to browse clothing collections, 
+                 filter products, and enjoy a seamless online shopping experience.
             </p>
 
             <div class="project-tags">
-                <span>HTML</span>
-                <span>CSS</span>
-                <span>Bootstrap</span>
-            </div>
-
-            <div class="project-buttons">
-
-                <a href="https://github.com/TON-COMPTE/TON-PROJET"
-                   target="_blank"
-                   class="project-btn github-btn">
-                    GitHub
-                </a>
-
-                <a href="#"
-                   target="_blank"
-                   class="project-btn demo-btn">
-                    Live Demo
-                </a>
-
-            </div>
-
-        </div>
-
-
-        <!-- PROJECT 3 -->
-        <div class="project-card">
-
-            <div class="project-image">
-                <img src="../public/images/project3.png"
-                     alt="Weather App">
-            </div>
-
-            <h3>
-                Weather App
-            </h3>
-
-            <p>
-                Responsive weather application showing
-                real-time weather information using an API.
-            </p>
-
-            <div class="project-tags">
-                <span>HTML</span>
-                <span>CSS</span>
-                <span>API</span>
-            </div>
-
-            <div class="project-buttons">
-
-                <a href="https://github.com/TON-COMPTE/TON-PROJET"
-                   target="_blank"
-                   class="project-btn github-btn">
-                    GitHub
-                </a>
-
-                <a href="#"
-                   target="_blank"
-                   class="project-btn demo-btn">
-                    Live Demo
-                </a>
-
-            </div>
-
-        </div>
-
-
-        <!-- PROJECT 4 -->
-        <div class="project-card">
-
-            <div class="project-image">
-                <img src="../public/images/project4.png"
-                     alt="Student Management">
-            </div>
-
-            <h3>
-                Student Management
-            </h3>
-
-            <p>
-                A simple application for managing students,
-                information and data.
-            </p>
-
-            <div class="project-tags">
-                <span>PHP</span>
-                <span>MySQL</span>
-                <span>HTML</span>
-            </div>
-
-            <div class="project-buttons">
-
-                <a href="https://github.com/TON-COMPTE/TON-PROJET"
-                   target="_blank"
-                   class="project-btn github-btn">
-                    GitHub
-                </a>
-
-                <a href="#"
-                   target="_blank"
-                   class="project-btn demo-btn">
-                    Live Demo
-                </a>
-
-            </div>
-
-        </div>
-
-
-        <!-- PROJECT 5 -->
-        <div class="project-card">
-
-            <div class="project-image">
-                <img src="../public/images/project5.png"
-                     alt="Book Rental Website">
-            </div>
-
-            <h3>
-                Book Rental Website
-            </h3>
-
-            <p>
-                A web interface for discovering and renting
-                books with a clean and simple design.
-            </p>
-
-            <div class="project-tags">
-                <span>HTML</span>
-                <span>CSS</span>
-                <span>PHP</span>
-            </div>
-
-            <div class="project-buttons">
-
-                <a href="https://github.com/TON-COMPTE/TON-PROJET"
-                   target="_blank"
-                   class="project-btn github-btn">
-                    GitHub
-                </a>
-
-                <a href="#"
-                   target="_blank"
-                   class="project-btn demo-btn">
-                    Live Demo
-                </a>
-
-            </div>
-
-        </div>
-
-
-        <!-- PROJECT 6 -->
-        <div class="project-card">
-
-            <div class="project-image">
-                <img src="../public/images/project6.png"
-                     alt="Digital Project">
-            </div>
-
-            <h3>
-                Digital Project
-            </h3>
-
-            <p>
-                A creative digital project developed during
-                my Full Stack development training.
-            </p>
-
-            <div class="project-tags">
+                <span>HTML/CSS</span>
                 <span>JavaScript</span>
-                <span>PHP</span>
-                <span>MySQL</span>
+                <span>BASE DE DONNER</span>
             </div>
 
             <div class="project-buttons">
@@ -2789,7 +2620,7 @@
                     GitHub
                 </a>
 
-                <a href="#"
+                <a href="https://elys-sit.vercel.app"
                    target="_blank"
                    class="project-btn demo-btn">
                     Live Demo
@@ -2798,9 +2629,16 @@
             </div>
 
         </div>
+
+
+
+
 
     </div>
 
+        
+
+            
 </section>
 <!-- ================= SKILLS SECTION ================= -->
 <section id="skills" class="skills-section">
