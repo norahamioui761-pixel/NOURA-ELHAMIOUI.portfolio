@@ -2551,23 +2551,24 @@
         <div class="project-card">
 
             <div class="project-image">
-                <img src="../public/images/project1.png"
+                <img src="/images/Acheto.jpeg"
                      alt="E-Commerce Website">
             </div>
 
             <h3>
-                E-Commerce Website
+                Acheto-Classified Ads Platform
             </h3>
 
             <p>
-                Modern online store with product filtering,
-                cart and a simple shopping experience.
+                A complete classified ads web application built under the branding Acheto.
+                Features UML modeling, database design, advanced filtering, 
+                and dedicated control panels for users and admins.
             </p>
 
             <div class="project-tags">
-                <span>HTML</span>
-                <span>CSS</span>
-                <span>JavaScript</span>
+                <span>MySQL/SQL</span>
+                <span>UML</span>
+                <span>FIGMA</span>
             </div>
 
             <div class="project-buttons">
