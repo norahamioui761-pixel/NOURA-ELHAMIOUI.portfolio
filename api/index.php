@@ -2377,17 +2377,16 @@
             </div>
 
             <h3>
-                Approche agile
+                Gestion de projets
             </h3>
 
             <p>
-                Découverte des méthodes et principes
-                de travail liés à l'approche agile.
+                Acquisition des fondamentaux de la gestion de projet, 
+                planification efficace et maîtrise des méthodologies 
+                agiles pour piloter vos équipes.
             </p>
 
-            <span class="module-code">
-                M202
-            </span>
+            <a href="M202.php" class="module-code">Voir Les Details</a>
 
         </div>
 
