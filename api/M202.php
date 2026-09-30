@@ -242,7 +242,7 @@
                     <a href="/images/Atelier1-ex3.png" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i> GanttProject
                     </a>
-                    <a href="/docs/M202/AT1-EX3.pdf" target="_blank" class="btn btn-docs">
+                    <a href="/docs/M202/atelier1-ex3.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-alt"></i> Document
                     </a>
                 </div>
