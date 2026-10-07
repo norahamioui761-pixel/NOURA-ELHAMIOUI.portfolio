@@ -247,6 +247,20 @@
                     </a>
                 </div>
             </div>
+             <!-- Card 3 -->
+            <div class="card">
+                <span class="card-number">3</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Atelier2-Gestion de projet agile </h3>
+                </div>
+                <div class="card-buttons">
+                    
+                    <a href="/docs/M202/AT2.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
            
             
 
