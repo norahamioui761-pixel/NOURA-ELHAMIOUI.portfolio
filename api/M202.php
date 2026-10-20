@@ -266,7 +266,7 @@
                 <span class="card-number">5</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier2-Les bases de Git  </h3>
+                    <h3> Atelier3-Les bases de Git  </h3>
                 </div>
                 <div class="card-buttons">
                     
