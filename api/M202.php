@@ -247,9 +247,9 @@
                     </a>
                 </div>
             </div>
-             <!-- Card 3 -->
+             <!-- Card 4 -->
             <div class="card">
-                <span class="card-number">3</span>
+                <span class="card-number">4</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
                     <h3> Atelier2-Gestion de projet agile </h3>
@@ -257,6 +257,20 @@
                 <div class="card-buttons">
                     
                     <a href="/docs/M202/AT2.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
+                         <!-- Card 5 -->
+            <div class="card">
+                <span class="card-number">5</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Atelier2-Les bases de Git  </h3>
+                </div>
+                <div class="card-buttons">
+                    
+                    <a href="/docs/M202/Atelier3.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-alt"></i> Document
                     </a>
                 </div>
