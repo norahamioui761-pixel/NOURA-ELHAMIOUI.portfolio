@@ -275,6 +275,48 @@
                     </a>
                 </div>
             </div>
+              <!-- Card 6 -->
+            <div class="card">
+                <span class="card-number">6</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Atelier4-GitHub  </h3>
+                </div>
+                <div class="card-buttons">
+                    
+                    <a href="/docs/M202/Acheto_Etapes.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
+            <!-- Card 7 -->
+            <div class="card">
+                <span class="card-number">7</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Atelier5-Git </h3>
+                </div>
+                <div class="card-buttons">
+                    
+                    <a href="/docs/M202/atelier5.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
+            <!-- Card 8 -->
+            <div class="card">
+                <span class="card-number">8</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Atelier6-Git </h3>
+                </div>
+                <div class="card-buttons">
+                    
+                    <a href="/docs/M202/" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
            
             
 

@@ -2207,7 +2207,7 @@
             <!-- RIGHT -->
             <div class="home-visual">
                 <div class="glow-circle">
-                    <img src="/images/image1.jpeg" alt="Noura El Hamioui">
+                    <img src="/images/image2.jpeg" alt="Noura El Hamioui">
                 </div>
             </div>
         </div>
