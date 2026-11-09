@@ -317,6 +317,20 @@
                     </a>
                 </div>
             </div>
+            <!-- Card 9 -->
+            <div class="card">
+                <span class="card-number">9</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Atelier7-SonarQube dans une pipeline CI/CD GitLab </h3>
+                </div>
+                <div class="card-buttons">
+                    
+                    <a href="/docs/M202/Rapport_Atelier7_GitLab_SonarQube_modifie.pdf" target="_blank" class="btn btn-docs">
+                        <i class="fas fa-file-alt"></i> Document
+                    </a>
+                </div>
+            </div>
            
             
 
