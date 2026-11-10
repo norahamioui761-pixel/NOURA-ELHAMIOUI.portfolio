@@ -312,7 +312,7 @@
                 </div>
                 <div class="card-buttons">
                     
-                    <a href="atelier-stagiaires.vercel.app" target="_blank" class="btn btn-docs">
+                    <a href="https://atelier-stagiaires.vercel.app" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-alt"></i> Document
                     </a>
                 </div>
