@@ -2410,10 +2410,8 @@
                 des applications informatiques.
             </p>
 
-            <span class="module-code">
-                M203
-            </span>
-
+            <a href="M203.php" class="module-code">Voir Les Details</a>
+            
         </div>
 
 
