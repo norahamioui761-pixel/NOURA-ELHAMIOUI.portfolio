@@ -207,7 +207,7 @@
                     <h3> Atelier1-SQL Complet-Requetes, Calculs, Optimisation et Securite </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M203/Rapport_Atelier1_SQL" target="_blank" class="btn btn-github">
+                    <a href="/docs/M203/Rapport_Atelier1_SQL.pdf" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i>Voir
                     </a>
                     
