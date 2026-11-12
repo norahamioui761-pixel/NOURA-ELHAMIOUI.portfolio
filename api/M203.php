@@ -213,6 +213,20 @@
                     
                 </div>
             </div>
+            <!-- Card 2 -->
+            <div class="card">
+                <span class="card-number">2</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Atelier2-Procédures et Fonctions Stockées en MySQL </h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="/docs/M203/Rapport_Atelier2_MySQL.pdf" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i>Voir
+                    </a>
+                    
+                </div>
+            </div>
             
            
             
