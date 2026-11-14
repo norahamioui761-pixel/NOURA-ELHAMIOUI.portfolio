@@ -2576,7 +2576,7 @@
                     GitHub
                 </a>
 
-                <a href="#"
+                <a href="https://acheto-6yzg7meac-norahamioui761-pixels-projects.vercel.app/"
                    target="_blank"
                    class="project-btn demo-btn">
                     Live Demo
