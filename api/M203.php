@@ -260,10 +260,24 @@
                 <span class="card-number">5</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier4-MySQL </h3>
+                    <h3> Atelier5-MySQL </h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Atelier5.pdf" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i>Voir
+                    </a>
+                    
+                </div>
+            </div>
+             <!-- Card 6-->
+            <div class="card">
+                <span class="card-number">6</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Atelier6- Les Triggers (Déclencheurs) en MySQL </h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="/docs/M203/Rapport_Atelier6.pdf" target="_blank" class="btn btn-github">
                         <i class="fab fa-github"></i>Voir
                     </a>
                     
