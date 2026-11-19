@@ -18,10 +18,10 @@
         }
 
         body {
-            background-color: #0d060a; /* خلفية داكنة تناسب مشروعك */
-            background-image: radial-gradient(circle at top right, rgba(230, 57, 70, 0.15), transparent 40%),
-                              radial-gradient(circle at bottom left, rgba(230, 57, 70, 0.1), transparent 40%);
-            color: #fff;
+            background-color: #F8F3EF;
+            background-image: radial-gradient(circle at top right, rgba(232, 197, 204, 0.42), transparent 40%),
+                              radial-gradient(circle at bottom left, rgba(216, 195, 181, 0.38), transparent 40%);
+            color: #514541;
             min-height: 100vh;
             padding: 40px 20px;
         }
@@ -41,7 +41,7 @@
             display: inline-flex;
             align-items: center;
             gap: 8px;
-            color: #e63946;
+            color: #9B6874;
             text-decoration: none;
             font-weight: 600;
             font-size: 14px;
@@ -51,11 +51,11 @@
 
         .back-btn:hover {
             transform: translateX(-5px);
-            color: #ff4d5a;
+            color: #80545F;
         }
 
         .title-sub {
-            color: #e63946;
+            color: #9B6874;
             letter-spacing: 2px;
             font-size: 12px;
             text-transform: uppercase;
@@ -66,7 +66,7 @@
             font-size: 36px;
             font-weight: 700;
             margin-top: 5px;
-            background: linear-gradient(90deg, #fff, #e63946);
+            background: linear-gradient(90deg, #514541, #9B6874);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -80,8 +80,8 @@
 
         /* Card Single Design */
         .card {
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(230, 57, 70, 0.2);
+            background: rgba(255, 255, 255, 0.78);
+            border: 1px solid rgba(169, 149, 138, 0.38);
             border-radius: 16px;
             padding: 25px;
             position: relative;
@@ -94,8 +94,8 @@
 
         .card:hover {
             transform: translateY(-5px);
-            border-color: rgba(230, 57, 70, 0.6);
-            box-shadow: 0 10px 30px rgba(230, 57, 70, 0.2);
+            border-color: #D9AEB8;
+            box-shadow: 0 10px 30px rgba(169, 149, 138, 0.2);
         }
 
         .card-number {
@@ -104,19 +104,19 @@
             right: 20px;
             font-size: 12px;
             font-weight: 700;
-            color: rgba(255, 255, 255, 0.4);
+            color: #8B7770;
         }
 
         .card-icon {
             width: 45px;
             height: 45px;
-            background: rgba(230, 57, 70, 0.1);
-            border: 1px solid rgba(230, 57, 70, 0.3);
+            background: rgba(232, 197, 204, 0.38);
+            border: 1px solid rgba(169, 149, 138, 0.35);
             border-radius: 10px;
             display: flex;
             align-items: center;
             justify-content: center;
-            color: #e63946;
+            color: #80545F;
             font-size: 18px;
             margin-bottom: 20px;
         }
@@ -125,12 +125,12 @@
             font-size: 18px;
             font-weight: 600;
             margin-bottom: 10px;
-            color: #fff;
+            color: #514541;
         }
 
         .card p {
             font-size: 13px;
-            color: #a0a0a0;
+            color: #6E625D;
             line-height: 1.6;
             margin-bottom: 25px;
         }
@@ -156,26 +156,27 @@
         }
 
         .btn-github {
-            background: rgba(255, 255, 255, 0.08);
-            color: #fff;
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            background: #F1E8E2;
+            color: #514541;
+            border: 1px solid rgba(169, 149, 138, 0.35);
         }
 
         .btn-github:hover {
-            background: #24292e;
-            border-color: #fff;
+            background: #A9958A;
+            border-color: #A9958A;
+            color: #fff;
         }
 
         .btn-docs {
-            background: rgba(230, 57, 70, 0.15);
-            color: #e63946;
-            border: 1px solid rgba(230, 57, 70, 0.4);
+            background: rgba(217, 174, 184, 0.24);
+            color: #80545F;
+            border: 1px solid rgba(155, 104, 116, 0.42);
         }
 
         .btn-docs:hover {
-            background: #e63946;
+            background: #9B6874;
             color: #fff;
-            box-shadow: 0 0 15px rgba(230, 57, 70, 0.4);
+            box-shadow: 0 0 15px rgba(155, 104, 116, 0.25);
         }
     </style>
 </head>
