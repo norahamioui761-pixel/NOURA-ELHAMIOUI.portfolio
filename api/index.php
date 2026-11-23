@@ -2181,10 +2181,6 @@
                         View My Projects
                     </a>
 
-                    <a href="#contact" class="btn btn-outline">
-                        Contact Me
-                    </a>
-
                     <a href="/docs/CV_Noura_El_Hamioui.pdf" class="btn btn-outline" target="_blank" rel="noopener" download>
                         Download CV
                     </a>
