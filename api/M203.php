@@ -283,6 +283,20 @@
                     
                 </div>
             </div>
+            <!-- Card 7-->
+            <div class="card">
+                <span class="card-number">7</span>
+                <div>
+                    <div class="card-icon"><i class="fas fa-code"></i></div>
+                    <h3> Atelier7- Programmation avancée en SQL : Procédures, Fonctions et Triggers (MySQL) </h3>
+                </div>
+                <div class="card-buttons">
+                    <a href="/docs/M203/Rapport_Atelier7.pdf" target="_blank" class="btn btn-github">
+                        <i class="fab fa-github"></i>Voir
+                    </a>
+                    
+                </div>
+            </div>
             
             
            
