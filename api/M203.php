@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>M201 - Travaux & Exercices</title>
+    <title>M203 - Travaux & Exercices</title>
     <!-- FontAwesome الأيقونات -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- Google Fonts -->
@@ -183,11 +183,11 @@
 
     <div class="container">
         <!-- زر العودة -->
-        <a href="index.php" class="back-btn"><i class="fas fa-arrow-left"></i> Retour au Portfolio</a>
+        <a href="index.php" class="back-btn"><i class="fas fa-arrow-left"></i> Back to Portfolio</a>
 
         <!-- عنوان الصفحة -->
         <div class="header-section">
-            <span class="title-sub">MODULE M201</span>
+            <span class="title-sub">MODULE M203</span>
             <h1 class="title-main">Préparation d'un projet web</h1>
         </div>
 
@@ -204,11 +204,11 @@
                 <span class="card-number">1</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier1-SQL Complet-Requetes, Calculs, Optimisation et Securite </h3>
+                    <h3> Workshop1-SQL Complet-Queries, Calculs, Optimisation et Security </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M203/Rapport_Atelier1_SQL.pdf" target="_blank" class="btn btn-github">
-                        <i class="fas fa-file-pdf"></i>Voir
+                    <a href="/docs/M203/Rapport_Workshop1_SQL.pdf" target="_blank" class="btn btn-github">
+                        <i class="fas fa-file-pdf"></i>View
                     </a>
                     
                 </div>
@@ -218,11 +218,11 @@
                 <span class="card-number">2</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier2-Procédures et Fonctions Stockées en MySQL </h3>
+                    <h3> Workshop2-Procédures et Fonctions Stockées en MySQL </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M203/Rapport_Atelier2_MySQL.pdf" target="_blank" class="btn btn-github">
-                        <i class="fas fa-file-pdf"></i>Voir
+                    <a href="/docs/M203/Rapport_Workshop2_MySQL.pdf" target="_blank" class="btn btn-github">
+                        <i class="fas fa-file-pdf"></i>View
                     </a>
                     
                 </div>
@@ -232,11 +232,11 @@
                 <span class="card-number">3</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier3-Gestion d’un Centre de Formation avec Procédures et Fonctions Stockées </h3>
+                    <h3> Workshop3-Gestion d’un Centre de Formation avec Procédures et Fonctions Stockées </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M203/Rapport_Atelier3.pdf" target="_blank" class="btn btn-github">
-                        <i class="fas fa-file-pdf"></i>Voir
+                    <a href="/docs/M203/Rapport_Workshop3.pdf" target="_blank" class="btn btn-github">
+                        <i class="fas fa-file-pdf"></i>View
                     </a>
                     
                 </div>
@@ -246,11 +246,11 @@
                 <span class="card-number">4</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier4-Les Curseurs en MySQL </h3>
+                    <h3> Workshop4-MySQL Cursors </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M203/Rapport_Atelier4_Curseurs.pdf" target="_blank" class="btn btn-github">
-                        <i class="fas fa-file-pdf"></i>Voir
+                    <a href="/docs/M203/Rapport_Workshop4_Curseurs.pdf" target="_blank" class="btn btn-github">
+                        <i class="fas fa-file-pdf"></i>View
                     </a>
                     
                 </div>
@@ -260,11 +260,11 @@
                 <span class="card-number">5</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier5-MySQL </h3>
+                    <h3> Workshop5-MySQL </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M203/Rapport_Atelier5.pdf" target="_blank" class="btn btn-github">
-                        <i class="fas fa-file-pdf"></i>Voir
+                    <a href="/docs/M203/Rapport_Workshop5.pdf" target="_blank" class="btn btn-github">
+                        <i class="fas fa-file-pdf"></i>View
                     </a>
                     
                 </div>
@@ -274,11 +274,11 @@
                 <span class="card-number">6</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier6- Les Triggers (Déclencheurs) en MySQL </h3>
+                    <h3> Workshop6- Les Triggers (Déclencheurs) en MySQL </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M203/Rapport_Atelier6.pdf" target="_blank" class="btn btn-github">
-                        <i class="fas fa-file-pdf"></i>Voir
+                    <a href="/docs/M203/Rapport_Workshop6.pdf" target="_blank" class="btn btn-github">
+                        <i class="fas fa-file-pdf"></i>View
                     </a>
                     
                 </div>
@@ -288,11 +288,11 @@
                 <span class="card-number">7</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier7- Programmation avancée en SQL : Procédures, Fonctions et Triggers (MySQL) </h3>
+                    <h3> Workshop7- Programmation avancée en SQL : Procédures, Fonctions et Triggers (MySQL) </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M203/Rapport_Atelier7.pdf" target="_blank" class="btn btn-github">
-                        <i class="fas fa-file-pdf"></i>Voir
+                    <a href="/docs/M203/Rapport_Workshop7.pdf" target="_blank" class="btn btn-github">
+                        <i class="fas fa-file-pdf"></i>View
                     </a>
                     
                 </div>

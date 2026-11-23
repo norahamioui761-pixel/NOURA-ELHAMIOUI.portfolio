@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>M201 - Travaux & Exercices</title>
+    <title>M202 - Travaux & Exercices</title>
     <!-- FontAwesome الأيقونات -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- Google Fonts -->
@@ -183,11 +183,11 @@
 
     <div class="container">
         <!-- زر العودة -->
-        <a href="index.php" class="back-btn"><i class="fas fa-arrow-left"></i> Retour au Portfolio</a>
+        <a href="index.php" class="back-btn"><i class="fas fa-arrow-left"></i> Back to Portfolio</a>
 
         <!-- عنوان الصفحة -->
         <div class="header-section">
-            <span class="title-sub">MODULE M201</span>
+            <span class="title-sub">MODULE M202</span>
             <h1 class="title-main">Préparation d'un projet web</h1>
         </div>
 
@@ -204,11 +204,11 @@
                 <span class="card-number">1</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier1-Methodes Classiques </h3>
+                    <h3> Workshop1-Traditional Methods </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/images/Atelier1-ex1.png" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GanttProject
+                    <a href="/images/Workshop1-ex1.png" target="_blank" class="btn btn-github">
+                        <i class="fas fa-tasks"></i> GanttProject
                     </a>
                     <a href="/docs/M202/AT1-EX1.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Document
@@ -220,11 +220,11 @@
                 <span class="card-number">2</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier1-Methodes Classiques </h3>
+                    <h3> Workshop1-Traditional Methods </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/images/Atelier1-ex2.png" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GanttProject
+                    <a href="/images/Workshop1-ex2.png" target="_blank" class="btn btn-github">
+                        <i class="fas fa-tasks"></i> GanttProject
                     </a>
                     <a href="/docs/M202/AT-EX2.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Document
@@ -236,11 +236,11 @@
                 <span class="card-number">3</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier1-Methodes Classiques </h3>
+                    <h3> Workshop1-Traditional Methods </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/images/Atelier1-ex3.png" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GanttProject
+                    <a href="/images/Workshop1-ex3.png" target="_blank" class="btn btn-github">
+                        <i class="fas fa-tasks"></i> GanttProject
                     </a>
                     <a href="/docs/M202/atelier1-ex3.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Document
@@ -252,7 +252,7 @@
                 <span class="card-number">4</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier2-Gestion de projet agile </h3>
+                    <h3> Workshop2-Agile Project Management </h3>
                 </div>
                 <div class="card-buttons">
                     
@@ -266,11 +266,11 @@
                 <span class="card-number">5</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier3-Les bases de Git  </h3>
+                    <h3> Workshop3-Git Fundamentals  </h3>
                 </div>
                 <div class="card-buttons">
                     
-                    <a href="/docs/M202/Atelier3.pdf" target="_blank" class="btn btn-docs">
+                    <a href="/docs/M202/Workshop3.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
@@ -280,7 +280,7 @@
                 <span class="card-number">6</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier4-GitHub  </h3>
+                    <h3> Workshop4-GitHub  </h3>
                 </div>
                 <div class="card-buttons">
                     
@@ -294,7 +294,7 @@
                 <span class="card-number">7</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier5-Git </h3>
+                    <h3> Workshop5-Git </h3>
                 </div>
                 <div class="card-buttons">
                     
@@ -308,7 +308,7 @@
                 <span class="card-number">8</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier6-Git </h3>
+                    <h3> Workshop6-Git </h3>
                 </div>
                 <div class="card-buttons">
                     
@@ -322,11 +322,11 @@
                 <span class="card-number">9</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Atelier7-SonarQube dans une pipeline CI/CD GitLab </h3>
+                    <h3> Workshop7-SonarQube in a GitLab CI/CD Pipeline </h3>
                 </div>
                 <div class="card-buttons">
                     
-                    <a href="/docs/M202/Rapport_Atelier7_GitLab_SonarQube_modifie.pdf" target="_blank" class="btn btn-docs">
+                    <a href="/docs/M202/Rapport_Workshop7_GitLab_SonarQube_modifie.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>

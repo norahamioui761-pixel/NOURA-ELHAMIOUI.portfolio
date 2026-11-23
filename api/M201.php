@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -183,7 +183,7 @@
 
     <div class="container">
         <!-- زر العودة -->
-        <a href="index.php" class="back-btn"><i class="fas fa-arrow-left"></i> Retour au Portfolio</a>
+        <a href="index.php" class="back-btn"><i class="fas fa-arrow-left"></i> Back to Portfolio</a>
 
         <!-- عنوان الصفحة -->
         <div class="header-section">
@@ -204,12 +204,9 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Diagramme de class </h3>
+                    <h3> Class Diagram </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GitHub
-                    </a>
                     <a href="/docs/M201/EX1.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Document
                     </a>
@@ -221,7 +218,7 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
-                    <h3> Diagramme use case </h3>
+                    <h3> Use Case Diagram </h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/EX2.mdj" target="_blank" class="btn btn-docs">
@@ -241,12 +238,9 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Diagramme de sequences </h3>
+                    <h3> Sequence Diagram </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GitHub
-                    </a>
                     <a href="/docs/M201/TD4.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Document
                     </a>
@@ -258,12 +252,9 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
-                    <h3> Diagramme d'etats-transition</h3>
+                    <h3> State Transition Diagram</h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="https://github.com/ton-username/repo2" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GitHub
-                    </a>
                     <a href="/docs/M201/TD5.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Document
                     </a>
@@ -275,12 +266,9 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Diagramme des activites </h3>
+                    <h3> Activity Diagram </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GitHub
-                    </a>
                     <a href="/docs/M201/TD6.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Document
                     </a>
@@ -292,12 +280,9 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3>Les Diagramme </h3>
+                    <h3>Diagrams </h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GitHub
-                    </a>
                     <a href="/docs/M201/Diagramme.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Documents
                     </a>
@@ -309,12 +294,9 @@
                 <span class="card-number">FIGMA</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3>FIGMA-OUTILS DE BASE</h3>
+                    <h3>FIGMA-BASIC TOOLS</h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GitHub
-                    </a>
                     <a href="/docs/M201/Atelier Figma-1.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Atelier 1
                     </a>
@@ -326,12 +308,9 @@
                 <span class="card-number">FIGMA</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3>FIGMA-OUTILS AVANCES</h3>
+                    <h3>FIGMA-ADVANCED TOOLS</h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GitHub
-                    </a>
                     <a href="/docs/M201/atelier2figma.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Atelier 2
                     </a>
@@ -342,12 +321,9 @@
                 <span class="card-number">FIGMA</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3>FIGMA-Prototypage et animations</h3>
+                    <h3>FIGMA-Prototyping and Animations</h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="https://github.com/ton-username/repo1" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i> GitHub
-                    </a>
                     <a href="/docs/M201/atelier3.pdf" target="_blank" class="btn btn-docs">
                         <i class="fas fa-file-pdf"></i> Atelier 3
                     </a>

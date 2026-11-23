@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -1134,6 +1134,12 @@
     letter-spacing: 1px;
 }
 
+.module-pending {
+    margin-left: 8px;
+    border-color: rgba(255, 193, 7, 0.45);
+    color: #ffd166;
+}
+
 /* BOTTOM */
 
 .modules-footer {
@@ -2095,20 +2101,13 @@
                 </h1>
 
                 <p class="description">
-                    Je suis Noura El Hamioui,
+                    I am Noura El Hamioui, a digital development student. Welcome to my personal space, where I showcase my skills and projects.
                     étudiante en développement digital.
                     Bienvenue dans mon espace personnel
                     où je présente mes compétences et mes projets.
                 </p>
 
                 <div class="status">LIVE STATUS</div>
-
-                <div class="buttons">
-                    <a href="#" class="btn">&lt;/&gt; CODE</a>
-                    <a href="#" class="btn">👤 PROFILE</a>
-                    <a href="#" class="btn">● SOURCE</a>
-                    <a href="#" class="btn">🌐 PORTFOLIO</a>
-                </div>
             </div>
 
             <!-- RIGHT -->
@@ -2174,32 +2173,19 @@
                 </h2>
 
                 <p class="description">
-                    Bienvenue sur mon portfolio. Je suis étudiante en
-                    développement digital et je m'intéresse à la création
+                    Welcome to my portfolio. I am éa student
+                    interested inéveloppement digital et je m'intéresse à la création
                     de sites web modernes, interactifs et responsives.
                 </p>
 
                 <!-- BUTTONS -->
                 <div class="home-buttons">
                     <a href="#projects" class="btn btn-main">
-                        Voir mes projets
+                        View My Projects
                     </a>
 
                     <a href="#contact" class="btn btn-outline">
-                        Me contacter
-                    </a>
-                </div>
-
-                <!-- SOCIAL -->
-                <div class="socials">
-                    <a href="#" target="_blank">
-                        GitHub
-                    </a>
-
-                    <span></span>
-
-                    <a href="#" target="_blank">
-                        LinkedIn
+                        Contact Me
                     </a>
                 </div>
             </div>
@@ -2243,7 +2229,7 @@
                 </p>
 
                 <p>
-                    Je suis encore en phase d'apprentissage et je cherche
+                    I am still learning and constantly working to improve my skills
                     constamment à développer mes compétences, ma créativité
                     et ma façon de concevoir des projets web.
                 </p>
@@ -2259,7 +2245,7 @@
                     <div class="about-card">
                         <div class="card-icon">🎓</div>
                         <div>
-                            <h4>Formation</h4>
+                            <h4>Education</h4>
                             <p>
                                 Développement Digital<br>
                                 Full Stack<br>
@@ -2271,9 +2257,9 @@
                     <div class="about-card">
                         <div class="card-icon">📍</div>
                         <div>
-                            <h4>Localisation</h4>
+                            <h4>Location</h4>
                             <p>
-                                Tanger, Maroc
+                                Tangier, Morocco
                             </p>
                         </div>
                     </div>
@@ -2281,7 +2267,7 @@
                     <div class="about-card">
                         <div class="card-icon">🎯</div>
                         <div>
-                            <h4>Objectif</h4>
+                            <h4>Goal</h4>
                             <p>
                                 Travailler et développer
                                 mes propres projets
@@ -2361,7 +2347,7 @@
                 dans le domaine du développement web.
             </p>
 
-            <a href="M201.php" class="module-code">Voir Les Details</a>
+            <a href="M201.php" class="module-code">View Details</a>
 
         </div>
 
@@ -2377,16 +2363,16 @@
             </div>
 
             <h3>
-                Gestion de projets
+                Project Management
             </h3>
 
             <p>
-                Acquisition des fondamentaux de la gestion de projet, 
+                Learn project management fundamentals, 
                 planification efficace et maîtrise des méthodologies 
                 agiles pour piloter vos équipes.
             </p>
 
-            <a href="M202.php" class="module-code">Voir Les Details</a>
+            <a href="M202.php" class="module-code">View Details</a>
 
         </div>
 
@@ -2402,15 +2388,15 @@
             </div>
 
             <h3>
-                Gestion des données
+                Managing Dataées
             </h3>
 
             <p>
                 Étude et gestion des données dans le cadre
-                des applications informatiques.
+                software applications.
             </p>
 
-            <a href="M203.php" class="module-code">Voir Les Details</a>
+            <a href="M203.php" class="module-code">View Details</a>
             
         </div>
 
@@ -2431,12 +2417,13 @@
 
             <p>
                 Création de l'interface et développement
-                de la partie visible des applications web.
+                the user-facing parts of web applications.
             </p>
 
             <span class="module-code">
                 M204
             </span>
+            <span class="module-code module-pending">À étudier</span>
 
         </div>
 
@@ -2457,12 +2444,13 @@
 
             <p>
                 Découverte du développement côté serveur
-                et de la logique des applications web.
+                and the logic behind web applications.
             </p>
 
             <span class="module-code">
                 M205
             </span>
+            <span class="module-code module-pending">À étudier</span>
 
         </div>
 
@@ -2483,12 +2471,13 @@
 
             <p>
                 Découverte de la création et du développement
-                d'applications Cloud native.
+                of cloud-native applications.
             </p>
 
             <span class="module-code">
                 M206
             </span>
+            <span class="module-code module-pending">À étudier</span>
 
         </div>
 
@@ -2507,7 +2496,7 @@
 
             <p>
                 Chaque module représente une nouvelle étape
-                dans mon parcours d'apprentissage.
+                in my learning journey.
             </p>
 
         </div>
@@ -2570,12 +2559,6 @@
 
             <div class="project-buttons">
 
-                <a href="https://github.com/TON-COMPTE/TON-PROJET"
-                   target="_blank"
-                   class="project-btn github-btn">
-                    GitHub
-                </a>
-
                 <a href="https://acheto-6yzg7meac-norahamioui761-pixels-projects.vercel.app/"
                    target="_blank"
                    class="project-btn demo-btn">
@@ -2606,16 +2589,10 @@
             <div class="project-tags">
                 <span>HTML/CSS</span>
                 <span>JavaScript</span>
-                <span>BASE DE DONNER</span>
+                <span>DATABASE</span>
             </div>
 
             <div class="project-buttons">
-
-                <a href="https://github.com/TON-COMPTE/TON-PROJET"
-                   target="_blank"
-                   class="project-btn github-btn">
-                    GitHub
-                </a>
 
                 <a href="https://elys-sit.vercel.app"
                    target="_blank"
@@ -2780,7 +2757,7 @@
             <div class="category-title">
                 <div class="category-icon">🛠️</div>
                 <div>
-                    <h3>Outils</h3>
+                    <h3>Tools</h3>
                     <p>Software & Productivity</p>
                 </div>
             </div>
@@ -2862,7 +2839,7 @@
             <div class="category-title">
                 <div class="category-icon">🌍</div>
                 <div>
-                    <h3>Langues</h3>
+                    <h3>Languages</h3>
                     <p>Languages</p>
                 </div>
             </div>
@@ -2879,7 +2856,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>Français</span>
+                    <span>Frenchçais</span>
                     <span>65%</span>
                 </div>
                 <div class="progress">
@@ -2911,7 +2888,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>Travail en équipe</span>
+                    <span>Teamwork équipe</span>
                     <span>85%</span>
                 </div>
                 <div class="progress">
@@ -2941,7 +2918,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>Gestion du temps</span>
+                    <span>Time Management</span>
                     <span>70%</span>
                 </div>
                 <div class="progress">
@@ -2951,7 +2928,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>Adaptabilité</span>
+                    <span>Adaptabilityé</span>
                     <span>80%</span>
                 </div>
                 <div class="progress">
@@ -2979,7 +2956,7 @@
         <span class="section-label">GET IN TOUCH</span>
         <h2>Contact <span>Me</span></h2>
         <p>
-            Vous avez un projet, une question ou simplement envie
+            Have a project, a question, or simply want to connect
             d'échanger ? N'hésitez pas à me contacter.
         </p>
     </div>
@@ -3009,14 +2986,8 @@
                 <div class="contact-icon">📍</div>
                 <div>
                     <h3>Location</h3>
-                    <p>Tanger, Maroc</p>
+                    <p>Tangier, Morocco</p>
                 </div>
-            </div>
-
-            <div class="contact-socials">
-                <a href="#" target="_blank">GitHub</a>
-                <a href="#" target="_blank">LinkedIn</a>
-                <a href="#" target="_blank">Instagram</a>
             </div>
 
         </div>
@@ -3032,11 +3003,11 @@
                 <div class="form-row">
 
                     <div class="input-group">
-                        <label>Nom</label>
+                        <label>Name</label>
                         <input
                             type="text"
                             name="name"
-                            placeholder="Votre nom"
+                            placeholder="Your name"
                             required
                         >
                     </div>
@@ -3046,7 +3017,7 @@
                         <input
                             type="email"
                             name="email"
-                            placeholder="Votre email"
+                            placeholder="Your email"
                             required
                         >
                     </div>
@@ -3054,11 +3025,11 @@
                 </div>
 
                 <div class="input-group">
-                    <label>Sujet</label>
+                    <label>Subject</label>
                     <input
                         type="text"
                         name="subject"
-                        placeholder="Sujet du message"
+                        placeholder="Message subject"
                     >
                 </div>
 
@@ -3073,7 +3044,7 @@
                 </div>
 
                 <button type="submit" class="send-btn">
-                    Envoyer le message
+                    Send Message
                     <span>➜</span>
                 </button>
 
