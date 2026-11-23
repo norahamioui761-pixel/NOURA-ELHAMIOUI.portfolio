@@ -2101,10 +2101,8 @@
                 </h1>
 
                 <p class="description">
-                    I am Noura El Hamioui, a digital development student. Welcome to my personal space, where I showcase my skills and projects.
-                    étudiante en développement digital.
-                    Bienvenue dans mon espace personnel
-                    où je présente mes compétences et mes projets.
+                    I am Noura El Hamioui, a digital development student.
+                    Welcome to my personal space, where I showcase my skills and projects.
                 </p>
 
                 <div class="status">LIVE STATUS</div>
@@ -2169,13 +2167,12 @@
                 </h1>
 
                 <h2>
-                    Étudiante en Développement Digital Full Stack
+                    Full-Stack Digital Development Student
                 </h2>
 
                 <p class="description">
-                    Welcome to my portfolio. I am éa student
-                    interested inéveloppement digital et je m'intéresse à la création
-                    de sites web modernes, interactifs et responsives.
+                    Welcome to my portfolio. I am a digital development student
+                    interested in creating modern, interactive, responsive websites.
                 </p>
 
                 <!-- BUTTONS -->
@@ -2214,30 +2211,27 @@
                 </h2>
 
                 <h3>
-                    Étudiante en Développement Digital Full Stack
+                    Full-Stack Digital Development Student
                 </h3>
 
                 <p>
-                    Je m'appelle Noura El Hamioui, étudiante en 2ème année
-                    en Développement Digital Full Stack à ISMONTIC Tanger.
+                    My name is Noura El Hamioui, and I am a second-year student
+                    in Full-Stack Digital Development at ISMONTIC in Tangier.
                 </p>
 
                 <p>
-                    Je suis passionnée par la création de sites web modernes
-                    et j'aime particulièrement découvrir et explorer le monde
-                    du développement digital.
+                    I am passionate about creating modern websites and especially
+                    enjoy discovering and exploring the world of digital development.
                 </p>
 
                 <p>
-                    I am still learning and constantly working to improve my skills
-                    constamment à développer mes compétences, ma créativité
-                    et ma façon de concevoir des projets web.
+                    I am still learning and constantly working to develop my skills,
+                    creativity, and approach to designing web projects.
                 </p>
 
                 <p>
-                    Mon objectif est de continuer à apprendre, intégrer le
-                    monde professionnel et développer mes propres projets
-                    dans le futur.
+                    My goal is to keep learning, enter the professional world,
+                    and develop my own projects in the future.
                 </p>
 
                 <!-- INFOS -->
@@ -2247,7 +2241,7 @@
                         <div>
                             <h4>Education</h4>
                             <p>
-                                Développement Digital<br>
+                                Digital Development<br>
                                 Full Stack<br>
                                 ISMONTIC Tanger
                             </p>
@@ -2269,8 +2263,8 @@
                         <div>
                             <h4>Goal</h4>
                             <p>
-                                Travailler et développer
-                                mes propres projets
+                                Work on and develop
+                                my own projects
                             </p>
                         </div>
                     </div>
@@ -2291,7 +2285,7 @@
                 <div class="student-badge">
                     <span>🎓</span>
                     <div>
-                        <strong>2ème année</strong>
+                        <strong>Second Year</strong>
                         <small>ISMONTIC Tanger</small>
                     </div>
                 </div>
@@ -2318,9 +2312,8 @@
         </h2>
 
         <p class="modules-subtitle">
-            Les modules techniques que j'étudie cette année
-            dans ma formation en Développement Digital Full Stack
-            à ISMONTIC Tanger.
+            The technical modules I am studying this year in my Full-Stack
+            Digital Development program at ISMONTIC in Tangier.
         </p>
 
     </div>
@@ -2339,12 +2332,11 @@
             </div>
 
             <h3>
-                Préparation d'un projet web
+                Web Project Preparation
             </h3>
 
             <p>
-                Préparation et organisation d'un projet
-                dans le domaine du développement web.
+                Preparing and organizing a project in the field of web development.
             </p>
 
             <a href="M201.php" class="module-code">View Details</a>
@@ -2367,9 +2359,7 @@
             </h3>
 
             <p>
-                Learn project management fundamentals, 
-                planification efficace et maîtrise des méthodologies 
-                agiles pour piloter vos équipes.
+                Learn project management fundamentals, effective planning, and agile methods for guiding teams.
             </p>
 
             <a href="M202.php" class="module-code">View Details</a>
@@ -2388,12 +2378,11 @@
             </div>
 
             <h3>
-                Managing Dataées
+                Data Management
             </h3>
 
             <p>
-                Étude et gestion des données dans le cadre
-                software applications.
+                Study and manage data for software applications.
             </p>
 
             <a href="M203.php" class="module-code">View Details</a>
@@ -2412,18 +2401,17 @@
             </div>
 
             <h3>
-                Développement front-end
+                Front-End Development
             </h3>
 
             <p>
-                Création de l'interface et développement
-                the user-facing parts of web applications.
+                Create interfaces and develop the user-facing parts of web applications.
             </p>
 
             <span class="module-code">
                 M204
             </span>
-            <span class="module-code module-pending">À étudier</span>
+            <span class="module-code module-pending">Coming Up</span>
 
         </div>
 
@@ -2439,18 +2427,17 @@
             </div>
 
             <h3>
-                Développement back-end
+                Back-End Development
             </h3>
 
             <p>
-                Découverte du développement côté serveur
-                and the logic behind web applications.
+                Explore server-side development and the logic behind web applications.
             </p>
 
             <span class="module-code">
                 M205
             </span>
-            <span class="module-code module-pending">À étudier</span>
+            <span class="module-code module-pending">Coming Up</span>
 
         </div>
 
@@ -2466,18 +2453,17 @@
             </div>
 
             <h3>
-                Application Cloud native
+                Cloud-Native Applications
             </h3>
 
             <p>
-                Découverte de la création et du développement
-                of cloud-native applications.
+                Explore the creation and development of cloud-native applications.
             </p>
 
             <span class="module-code">
                 M206
             </span>
-            <span class="module-code module-pending">À étudier</span>
+            <span class="module-code module-pending">Coming Up</span>
 
         </div>
 
@@ -2491,13 +2477,10 @@
         <div>
 
             <h3>
-                En constante évolution
+                Always Growing
             </h3>
 
-            <p>
-                Chaque module représente une nouvelle étape
-                in my learning journey.
-            </p>
+            <p>Every module is a new step in my learning journey.</p>
 
         </div>
 
@@ -2621,8 +2604,8 @@
         <span class="section-label">MY EXPERTISE</span>
         <h2>My <span>Skills</span></h2>
         <p>
-            Les compétences que je développe au cours de ma formation
-            en Développement Digital Full Stack.
+            The skills I am developing during my Full-Stack
+            Digital Development studies.
         </p>
     </div>
 
@@ -2633,7 +2616,7 @@
             <div class="category-title">
                 <div class="category-icon">💻</div>
                 <div>
-                    <h3>Développement</h3>
+                    <h3>Development</h3>
                     <p>Web & Programming</p>
                 </div>
             </div>
@@ -2705,7 +2688,7 @@
             <div class="category-title">
                 <div class="category-icon">🗄️</div>
                 <div>
-                    <h3>Database & Modélisation</h3>
+                    <h3>Databases & Modeling</h3>
                     <p>Data & UML</p>
                 </div>
             </div>
@@ -2846,7 +2829,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>العربية</span>
+                    <span>Arabic</span>
                     <span>100%</span>
                 </div>
                 <div class="progress">
@@ -2856,7 +2839,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>Frenchçais</span>
+                    <span>French</span>
                     <span>65%</span>
                 </div>
                 <div class="progress">
@@ -2888,7 +2871,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>Teamwork équipe</span>
+                    <span>Teamwork</span>
                     <span>85%</span>
                 </div>
                 <div class="progress">
@@ -2908,7 +2891,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>Organisation</span>
+                    <span>Organization</span>
                     <span>80%</span>
                 </div>
                 <div class="progress">
@@ -2928,7 +2911,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>Adaptabilityé</span>
+                    <span>Adaptability</span>
                     <span>80%</span>
                 </div>
                 <div class="progress">
@@ -2938,7 +2921,7 @@
 
             <div class="skill-card">
                 <div class="skill-info">
-                    <span>Résolution de problèmes</span>
+                    <span>Problem-Solving</span>
                     <span>70%</span>
                 </div>
                 <div class="progress">
@@ -2955,10 +2938,7 @@
     <div class="contact-header">
         <span class="section-label">GET IN TOUCH</span>
         <h2>Contact <span>Me</span></h2>
-        <p>
-            Have a project, a question, or simply want to connect
-            d'échanger ? N'hésitez pas à me contacter.
-        </p>
+        <p>Have a project, a question, or simply want to connect? Feel free to get in touch.</p>
     </div>
 
     <div class="contact-container">
@@ -2977,7 +2957,7 @@
             <div class="contact-card">
                 <div class="contact-icon">📱</div>
                 <div>
-                    <h3>Téléphone</h3>
+                    <h3>Phone</h3>
                     <p>+212 7 02 28 99 33</p>
                 </div>
             </div>
@@ -3038,7 +3018,7 @@
                     <textarea
                         name="message"
                         rows="6"
-                        placeholder="Écrivez votre message..."
+                        placeholder="Write your message..."
                         required
                     ></textarea>
                 </div>

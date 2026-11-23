@@ -188,7 +188,7 @@
         <!-- عنوان الصفحة -->
         <div class="header-section">
             <span class="title-sub">MODULE M202</span>
-            <h1 class="title-main">Préparation d'un projet web</h1>
+            <h1 class="title-main">Project Management</h1>
         </div>
 
         
@@ -204,7 +204,7 @@
                 <span class="card-number">1</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop1-Traditional Methods </h3>
+                    <h3>Workshop 1 - Traditional Methods</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/images/Workshop1-ex1.png" target="_blank" class="btn btn-github">
@@ -220,7 +220,7 @@
                 <span class="card-number">2</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop1-Traditional Methods </h3>
+                    <h3>Workshop 1 - Traditional Methods</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/images/Workshop1-ex2.png" target="_blank" class="btn btn-github">
@@ -236,7 +236,7 @@
                 <span class="card-number">3</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop1-Traditional Methods </h3>
+                    <h3>Workshop 1 - Traditional Methods</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/images/Workshop1-ex3.png" target="_blank" class="btn btn-github">
@@ -252,7 +252,7 @@
                 <span class="card-number">4</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop2-Agile Project Management </h3>
+                    <h3>Workshop 2 - Agile Project Management</h3>
                 </div>
                 <div class="card-buttons">
                     
@@ -266,7 +266,7 @@
                 <span class="card-number">5</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop3-Git Fundamentals  </h3>
+                    <h3>Workshop 3 - Git Fundamentals</h3>
                 </div>
                 <div class="card-buttons">
                     
@@ -280,7 +280,7 @@
                 <span class="card-number">6</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop4-GitHub  </h3>
+                    <h3>Workshop 4 - GitHub</h3>
                 </div>
                 <div class="card-buttons">
                     
@@ -294,7 +294,7 @@
                 <span class="card-number">7</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop5-Git </h3>
+                    <h3>Workshop 5 - Git</h3>
                 </div>
                 <div class="card-buttons">
                     
@@ -308,7 +308,7 @@
                 <span class="card-number">8</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop6-Git </h3>
+                    <h3>Workshop 6 - Git</h3>
                 </div>
                 <div class="card-buttons">
                     
@@ -322,7 +322,7 @@
                 <span class="card-number">9</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop7-SonarQube in a GitLab CI/CD Pipeline </h3>
+                    <h3>Workshop 7 - SonarQube in a GitLab CI/CD Pipeline</h3>
                 </div>
                 <div class="card-buttons">
                     

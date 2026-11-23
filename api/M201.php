@@ -188,7 +188,7 @@
         <!-- عنوان الصفحة -->
         <div class="header-section">
             <span class="title-sub">MODULE M201</span>
-            <h1 class="title-main">Préparation d'un projet web</h1>
+            <h1 class="title-main">Web Project Preparation</h1>
         </div>
 
         
@@ -204,7 +204,7 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Class Diagram </h3>
+                    <h3>Class Diagram</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/EX1.pdf" target="_blank" class="btn btn-docs">
@@ -218,7 +218,7 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
-                    <h3> Use Case Diagram </h3>
+                    <h3>Use Case Diagram</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/EX2.mdj" target="_blank" class="btn btn-docs">
@@ -238,7 +238,7 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Sequence Diagram </h3>
+                    <h3>Sequence Diagram</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/TD4.pdf" target="_blank" class="btn btn-docs">
@@ -252,7 +252,7 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-laptop-code"></i></div>
-                    <h3> State Transition Diagram</h3>
+                    <h3>State Transition Diagram</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/TD5.pdf" target="_blank" class="btn btn-docs">
@@ -266,7 +266,7 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Activity Diagram </h3>
+                    <h3>Activity Diagrams</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/TD6.pdf" target="_blank" class="btn btn-docs">
@@ -280,7 +280,7 @@
                 <span class="card-number">UML</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3>Diagrams </h3>
+                    <h3>Diagrams</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/Diagramme.pdf" target="_blank" class="btn btn-docs">
@@ -294,11 +294,11 @@
                 <span class="card-number">FIGMA</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3>FIGMA-BASIC TOOLS</h3>
+                    <h3>Figma - Basic Tools</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/Atelier Figma-1.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-pdf"></i> Atelier 1
+                        <i class="fas fa-file-pdf"></i> Workshop 1
                     </a>
                 </div>
             </div>
@@ -308,11 +308,11 @@
                 <span class="card-number">FIGMA</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3>FIGMA-ADVANCED TOOLS</h3>
+                    <h3>Figma - Advanced Tools</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/atelier2figma.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-pdf"></i> Atelier 2
+                        <i class="fas fa-file-pdf"></i> Workshop 2
                     </a>
                 </div>
             </div> 
@@ -321,11 +321,11 @@
                 <span class="card-number">FIGMA</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3>FIGMA-Prototyping and Animations</h3>
+                    <h3>Figma - Prototyping and Animations</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/atelier3.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-pdf"></i> Atelier 3
+                        <i class="fas fa-file-pdf"></i> Workshop 3
                     </a>
                 </div>
             </div> 

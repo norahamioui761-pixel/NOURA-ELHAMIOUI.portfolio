@@ -188,7 +188,7 @@
         <!-- عنوان الصفحة -->
         <div class="header-section">
             <span class="title-sub">MODULE M203</span>
-            <h1 class="title-main">Préparation d'un projet web</h1>
+            <h1 class="title-main">Data Management</h1>
         </div>
 
         
@@ -204,7 +204,7 @@
                 <span class="card-number">1</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop1-SQL Complet-Queries, Calculs, Optimisation et Security </h3>
+                    <h3>Workshop 1 - SQL Queries, Calculations, Optimization, and Security</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Workshop1_SQL.pdf" target="_blank" class="btn btn-github">
@@ -218,7 +218,7 @@
                 <span class="card-number">2</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop2-Procédures et Fonctions Stockées en MySQL </h3>
+                    <h3>Workshop 2 - MySQL Stored Procedures and Functions</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Workshop2_MySQL.pdf" target="_blank" class="btn btn-github">
@@ -232,7 +232,7 @@
                 <span class="card-number">3</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop3-Gestion d’un Centre de Formation avec Procédures et Fonctions Stockées </h3>
+                    <h3>Workshop 3 - Managing a Training Center with Stored Procedures and Functions</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Workshop3.pdf" target="_blank" class="btn btn-github">
@@ -246,7 +246,7 @@
                 <span class="card-number">4</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop4-MySQL Cursors </h3>
+                    <h3>Workshop 4 - MySQL Cursors</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Workshop4_Curseurs.pdf" target="_blank" class="btn btn-github">
@@ -260,7 +260,7 @@
                 <span class="card-number">5</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop5-MySQL </h3>
+                    <h3>Workshop 5 - MySQL</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Workshop5.pdf" target="_blank" class="btn btn-github">
@@ -274,7 +274,7 @@
                 <span class="card-number">6</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop6- Les Triggers (Déclencheurs) en MySQL </h3>
+                    <h3>Workshop 6 - MySQL Triggers</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Workshop6.pdf" target="_blank" class="btn btn-github">
@@ -288,7 +288,7 @@
                 <span class="card-number">7</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3> Workshop7- Programmation avancée en SQL : Procédures, Fonctions et Triggers (MySQL) </h3>
+                    <h3>Workshop 7 - Advanced SQL: MySQL Procedures, Functions, and Triggers</h3>
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Workshop7.pdf" target="_blank" class="btn btn-github">
