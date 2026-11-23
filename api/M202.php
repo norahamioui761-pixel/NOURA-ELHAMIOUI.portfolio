@@ -211,7 +211,7 @@
                         <i class="fab fa-github"></i> GanttProject
                     </a>
                     <a href="/docs/M202/AT1-EX1.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -227,7 +227,7 @@
                         <i class="fab fa-github"></i> GanttProject
                     </a>
                     <a href="/docs/M202/AT-EX2.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -243,7 +243,7 @@
                         <i class="fab fa-github"></i> GanttProject
                     </a>
                     <a href="/docs/M202/atelier1-ex3.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -257,7 +257,7 @@
                 <div class="card-buttons">
                     
                     <a href="/docs/M202/AT2.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -271,7 +271,7 @@
                 <div class="card-buttons">
                     
                     <a href="/docs/M202/Atelier3.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -285,7 +285,7 @@
                 <div class="card-buttons">
                     
                     <a href="/docs/M202/Acheto_Etapes.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -299,7 +299,7 @@
                 <div class="card-buttons">
                     
                     <a href="/docs/M202/atelier5.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -313,7 +313,7 @@
                 <div class="card-buttons">
                     
                     <a href="https://atelier-stagiaires.vercel.app" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -327,7 +327,7 @@
                 <div class="card-buttons">
                     
                     <a href="/docs/M202/Rapport_Atelier7_GitLab_SonarQube_modifie.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>

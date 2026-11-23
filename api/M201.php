@@ -211,7 +211,7 @@
                         <i class="fab fa-github"></i> GitHub
                     </a>
                     <a href="/docs/M201/EX1.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -225,13 +225,13 @@
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M201/EX2.mdj" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Doc 1
+                        <i class="fas fa-file-pdf"></i> Doc 1
                     </a>
                     <a href="/docs/M201/TD1.png" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Doc 2
+                        <i class="fas fa-file-pdf"></i> Doc 2
                     </a>
                     <a href="/docs/M201/TD2.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Doc 3
+                        <i class="fas fa-file-pdf"></i> Doc 3
                     </a>
                 </div>
             </div>
@@ -248,7 +248,7 @@
                         <i class="fab fa-github"></i> GitHub
                     </a>
                     <a href="/docs/M201/TD4.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -265,7 +265,7 @@
                         <i class="fab fa-github"></i> GitHub
                     </a>
                     <a href="/docs/M201/TD5.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -282,7 +282,7 @@
                         <i class="fab fa-github"></i> GitHub
                     </a>
                     <a href="/docs/M201/TD6.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Document
+                        <i class="fas fa-file-pdf"></i> Document
                     </a>
                 </div>
             </div>
@@ -299,7 +299,7 @@
                         <i class="fab fa-github"></i> GitHub
                     </a>
                     <a href="/docs/M201/Diagramme.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Documents
+                        <i class="fas fa-file-pdf"></i> Documents
                     </a>
                 </div>
             </div>
@@ -316,7 +316,7 @@
                         <i class="fab fa-github"></i> GitHub
                     </a>
                     <a href="/docs/M201/Atelier Figma-1.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Atelier 1
+                        <i class="fas fa-file-pdf"></i> Atelier 1
                     </a>
                 </div>
             </div>
@@ -333,7 +333,7 @@
                         <i class="fab fa-github"></i> GitHub
                     </a>
                     <a href="/docs/M201/atelier2figma.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Atelier 2
+                        <i class="fas fa-file-pdf"></i> Atelier 2
                     </a>
                 </div>
             </div> 
@@ -349,7 +349,7 @@
                         <i class="fab fa-github"></i> GitHub
                     </a>
                     <a href="/docs/M201/atelier3.pdf" target="_blank" class="btn btn-docs">
-                        <i class="fas fa-file-alt"></i> Atelier 3
+                        <i class="fas fa-file-pdf"></i> Atelier 3
                     </a>
                 </div>
             </div> 

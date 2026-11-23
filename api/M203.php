@@ -208,7 +208,7 @@
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Atelier1_SQL.pdf" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i>Voir
+                        <i class="fas fa-file-pdf"></i>Voir
                     </a>
                     
                 </div>
@@ -222,7 +222,7 @@
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Atelier2_MySQL.pdf" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i>Voir
+                        <i class="fas fa-file-pdf"></i>Voir
                     </a>
                     
                 </div>
@@ -236,7 +236,7 @@
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Atelier3.pdf" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i>Voir
+                        <i class="fas fa-file-pdf"></i>Voir
                     </a>
                     
                 </div>
@@ -250,7 +250,7 @@
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Atelier4_Curseurs.pdf" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i>Voir
+                        <i class="fas fa-file-pdf"></i>Voir
                     </a>
                     
                 </div>
@@ -264,7 +264,7 @@
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Atelier5.pdf" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i>Voir
+                        <i class="fas fa-file-pdf"></i>Voir
                     </a>
                     
                 </div>
@@ -278,7 +278,7 @@
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Atelier6.pdf" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i>Voir
+                        <i class="fas fa-file-pdf"></i>Voir
                     </a>
                     
                 </div>
@@ -292,7 +292,7 @@
                 </div>
                 <div class="card-buttons">
                     <a href="/docs/M203/Rapport_Atelier7.pdf" target="_blank" class="btn btn-github">
-                        <i class="fab fa-github"></i>Voir
+                        <i class="fas fa-file-pdf"></i>Voir
                     </a>
                     
                 </div>
