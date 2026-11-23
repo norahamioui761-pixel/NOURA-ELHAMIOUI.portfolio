@@ -2184,6 +2184,14 @@
                     <a href="#contact" class="btn btn-outline">
                         Contact Me
                     </a>
+
+                    <a href="/docs/CV_Noura_El_Hamioui.pdf" class="btn btn-outline" target="_blank" rel="noopener" download>
+                        Download CV
+                    </a>
+                </div>
+
+                <div class="socials">
+                    <a href="https://www.linkedin.com/in/noura-el-hamioui-b18a863a2/" target="_blank" rel="noopener noreferrer" aria-label="Visit Noura El Hamioui on LinkedIn">LinkedIn</a>
                 </div>
             </div>
 
@@ -2967,6 +2975,14 @@
                 <div>
                     <h3>Location</h3>
                     <p>Tangier, Morocco</p>
+                </div>
+            </div>
+
+            <div class="contact-card">
+                <div class="contact-icon">in</div>
+                <div>
+                    <h3>LinkedIn</h3>
+                    <p><a href="https://www.linkedin.com/in/noura-el-hamioui-b18a863a2/" target="_blank" rel="noopener noreferrer">Visit my LinkedIn profile</a></p>
                 </div>
             </div>
 
