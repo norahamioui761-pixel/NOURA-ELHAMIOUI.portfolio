@@ -302,10 +302,10 @@
                 <span class="card-number">8</span>
                 <div>
                     <div class="card-icon"><i class="fas fa-code"></i></div>
-                    <h3>Workshop 1 - MongoDB</h3>
+                    <h3>Atelier 1 - MongoDB</h3>
                 </div>
                 <div class="card-buttons">
-                    <a href="/docs/M203/Rapport_Workshop1_MongoDB.pdf" target="_blank" class="btn btn-github">
+                    <a href="/docs/M203/Rapport_Atelier1_MongoDB.pdf" target="_blank" class="btn btn-github">
                         <i class="fas fa-file-pdf"></i>View
                     </a>
                     
